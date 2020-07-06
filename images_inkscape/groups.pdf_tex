@@ -1,0 +1,60 @@
+%% Creator: Inkscape inkscape 0.92.2, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'groups.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{668.5224071bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.68240049)%
+    \put(0.00275325,0.40793623){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{((\d{2,4})(\s)?([km]hz))}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{groups.pdf}}%
+    \put(0.4101608,0.65412919){\color[rgb]{1,0,0}\makebox(0,0)[lb]{\smash{Group 2:\\ optional\\ white space}}}%
+    \put(0.13156132,0.263342){\color[rgb]{1,0,0}\makebox(0,0)[lb]{\smash{Group 1:\\ 2-4 digits}}}%
+    \put(0.69436965,0.263342){\color[rgb]{1,0,0}\makebox(0,0)[lb]{\smash{Group 3:\\ khz or mhz}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{groups.pdf}}%
+    \put(0.35593675,0.05654261){\color[rgb]{0,0,1}\makebox(0,0)[lb]{\smash{Group 0\\ All inside}}}%
+  \end{picture}%
+\endgroup%
